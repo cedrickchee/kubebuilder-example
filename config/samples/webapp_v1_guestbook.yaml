@@ -4,4 +4,6 @@ metadata:
   name: guestbook-sample
 spec:
   # Add fields here
-  foo: bar
+  size: 1
+  configMapName: gb-map
+  alias: Address
