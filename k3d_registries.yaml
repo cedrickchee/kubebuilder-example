@@ -1,0 +1,4 @@
+mirrors:
+  "mycom.registry.localhost:5000":
+    endpoint:
+      - http://mycom.registry.localhost:5000
