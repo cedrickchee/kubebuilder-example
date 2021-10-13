@@ -56,7 +56,7 @@ type GuestbookStatus struct {
 
 //+kubebuilder:object:root=true
 //+kubebuilder:subresource:status
-//+kubebuilder:resource:scope=Cluster
+//+kubebuilder:resource:scope=Namespaced
 
 // Guestbook is the Schema for the guestbooks API
 type Guestbook struct {
